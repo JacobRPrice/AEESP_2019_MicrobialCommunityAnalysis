@@ -8,8 +8,20 @@
   </url>
   
   <url>
+    <loc>/AEESP_2019_MicrobialCommunityAnalysis/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/AEESP_2019_MicrobialCommunityAnalysis/authors/</loc>
+  </url>
+  
+  <url>
     <loc>/AEESP_2019_MicrobialCommunityAnalysis/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/AEESP_2019_MicrobialCommunityAnalysis/experimental/</loc>
   </url>
   
   <url>
@@ -46,6 +58,18 @@
     <loc>/AEESP_2019_MicrobialCommunityAnalysis/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/AEESP_2019_MicrobialCommunityAnalysis/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/AEESP_2019_MicrobialCommunityAnalysis/statistics/</loc>
+  </url>
+  
+  <url>
+    <loc>/AEESP_2019_MicrobialCommunityAnalysis/structure/</loc>
   </url>
   
   <url>

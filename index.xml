@@ -57,5 +57,85 @@ Figure 1: A fancy pie chart.
 &lt;/div&gt;
 </description>
 		</item>
+		<item>
+			<title>About</title>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis/about/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis/about/</guid>
+			<description>&lt;p&gt;test about&lt;/p&gt;
+</description>
+		</item>
+		<item>
+			<title>About the Authors</title>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis/authors/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis/authors/</guid>
+			<description>&lt;p&gt;empty authors&lt;/p&gt;
+</description>
+		</item>
+		<item>
+			<title>Experimental Design &amp; Methods</title>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis/experimental/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis/experimental/</guid>
+			<description>&lt;p&gt;empty experimental&lt;/p&gt;
+</description>
+		</item>
+		<item>
+			<title>Resources</title>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis/resources/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis/resources/</guid>
+			<description>
+
+&lt;p&gt;Diving into the world of microbiome analysis can feel like a daunting task. Below we have collated a resources and references which students and investigators may find useful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;texts&#34;&gt;Texts&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Microbiome Analysis &lt;a href=&#34;https://www.springer.com/us/book/9781493987269&#34;&gt;website&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;websites-with-guides&#34;&gt;Websites with guides&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
+
+&lt;h2 id=&#34;in-person-courses&#34;&gt;In-person Courses&lt;/h2&gt;
+
+&lt;h2 id=&#34;online-courses&#34;&gt;Online Courses&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;scientific-primary-literature&#34;&gt;Scientific (Primary) Literature&lt;/h1&gt;
+
+&lt;h2 id=&#34;review-papers&#34;&gt;Review Papers&lt;/h2&gt;
+
+&lt;h2 id=&#34;methods-papers&#34;&gt;Methods Papers&lt;/h2&gt;
+
+&lt;hr /&gt;
+</description>
+		</item>
+		<item>
+			<title>Statistical Considerations</title>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis/statistics/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis/statistics/</guid>
+			<description>&lt;p&gt;empty statistics&lt;/p&gt;
+</description>
+		</item>
+		<item>
+			<title>Structure to Function</title>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis/structure/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis/structure/</guid>
+			<description>&lt;p&gt;empty structure&lt;/p&gt;
+</description>
+		</item>
 	</channel>
 </rss>
